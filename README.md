@@ -7,3 +7,4 @@ Assignments from ISAT449 - ML Deep Neural Networks
 SmokeyTheBear project is a KNN algothrim used to train a model to process thermal images and detect wildfires in a forest and seperate them by the type of wildfire.
 The project was developed by Carter Elliot and Steven Nguyen
 The JupyterNotebook file for SmokeyTheBear has documentation already written inside.
+The images used to train the model are inside the folder as well and are a product of Carter Elliot.
